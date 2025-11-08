@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DDir=$(pwd)
-cd "C:\YandexDisk\_repo\cs"
+cd "C:\YandexDisk\_repo\pl"
 
 echo -e "${ECHO_YES}Rewrite Snippets VSCode :: only 'y'${NRM}"
 unset yes
