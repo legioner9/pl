@@ -18,4 +18,5 @@ cd "${PPWD}"
 
 }
 
-f $*
+# grep "rr"
+f "rr"
